@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>paysafecash_gateway</name>
+    <displayName><![CDATA[Paysafecash]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Paysafecash ist eine Barzahlungsmethode. Generiere dir einen QR/Barcode und bezahle in einem Shop in deiner N&auml;he. Mehr Informationen und unsere Partnerfilialen findest du auf www.paysafecash.com]]></description>
+    <author><![CDATA[Prepaid Services Company Ltd.]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Möchten Sie diese Anwendung sicher entfernen?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
